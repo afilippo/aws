@@ -1,0 +1,10 @@
+IAM
+  AWS IAM Policy Summaries Now Help You Identify Errors and Correct Permissions in Your IAM Policies
+  https://aws.amazon.com/blogs/security/iam-policy-summaries-now-help-you-identify-errors-and-correct-permissions-in-your-iam-policies/
+
+  Lambda
+  all_aws_managed_policies.json
+  https://gist.github.com/gene1wood/55b358748be3c314f956
+
+  AWSLambdaExecute policy definition
+  https://serverfault.com/questions/703994/awslambdaexecute-policy-definition
